@@ -1,0 +1,5 @@
+CREATE TABLE languages
+(
+id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+languages VARCHAR(30)
+);
